@@ -1,15 +1,6 @@
 # CineBlue
 
-<br clear="both">
-
----
-
-<br clear="both">
-
 **CineBlue** -  A website which was focused on a film search website. Created to fulfill a graduation [Belajar Fundamental Front-End Web Developer](https://www.dicoding.com/academies/163) class requirement at Dicoding Academy
-
-<br clear="both">
-
 
 ---
 
